@@ -1,35 +1,50 @@
 <component name="ProjectDictionaryState">
   <dictionary name="chhat">
     <words>
+      <w>abcd</w>
       <w>aeiou</w>
+      <w>asid</w>
       <w>batwoman</w>
       <w>batwowoman</w>
       <w>beautifulsoup</w>
+      <w>bene</w>
       <w>chhatra</w>
       <w>dirname</w>
       <w>docx</w>
       <w>dpath</w>
       <w>epdf</w>
+      <w>failsafe</w>
       <w>filenames</w>
       <w>foldername</w>
       <w>fpath</w>
+      <w>gmail</w>
       <w>googling</w>
+      <w>imap</w>
+      <w>imapclient</w>
+      <w>imaplib</w>
       <w>mcsv</w>
       <w>mreader</w>
       <w>myzip</w>
       <w>newyears</w>
       <w>nostarch</w>
+      <w>nota</w>
       <w>npath</w>
+      <w>pyautogui</w>
+      <w>pyzmail</w>
       <w>rmdir</w>
       <w>rmtree</w>
+      <w>screenshot</w>
       <w>shutil</w>
+      <w>smtp</w>
       <w>subfolder</w>
       <w>subfolders</w>
+      <w>twilio</w>
       <w>unmerging</w>
       <w>webbrowser</w>
       <w>xkcd</w>
       <w>xlsx</w>
       <w>zipnew</w>
+      <w>zophie</w>
     </words>
   </dictionary>
 </component>
