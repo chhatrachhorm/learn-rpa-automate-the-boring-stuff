@@ -11,8 +11,8 @@ token = input()
 client = Client(asid, token)
 
 # your registered phone number
-myPhone = '+19418456962'
-other = '+85586645395'
+myPhone = '+NNNNNNNNN'
+other = '+NNNNNNNNN'
 message = client.messages.create(
     body='Hello, you have won 152005$',
     from_=myPhone,

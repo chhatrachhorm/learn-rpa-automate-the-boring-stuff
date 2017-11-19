@@ -11,7 +11,7 @@ if len(sys.argv) < 2:
     print('More argument pls')
     sys.exit()
 location = ' '.join(sys.argv[1:])
-key = 'f573d7d4988e314d3a5b85e4437dc9f5'
+key = ''
 # download
 url = 'http://api.openweathermap.org/data/2.5/forecast/daily?q=%s&cnt=3&APPID=%s' % (location, key)
 print(url)

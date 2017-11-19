@@ -9,7 +9,7 @@ import pprint
 
 imap = imapclient.IMAPClient('imap.gmail.com', ssl=True)
 print('Email: ', end='')
-email = 'testenv.chhatra@gmail.com'  # input()
+email = input()
 imap.login(email, getpass.getpass())
 
 # navigate to inbox
