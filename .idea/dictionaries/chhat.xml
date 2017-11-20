@@ -12,6 +12,7 @@
       <w>dirname</w>
       <w>docx</w>
       <w>dpath</w>
+      <w>ecludean</w>
       <w>epdf</w>
       <w>failsafe</w>
       <w>filenames</w>
@@ -30,6 +31,7 @@
       <w>nostarch</w>
       <w>nota</w>
       <w>npath</w>
+      <w>prefs</w>
       <w>pyautogui</w>
       <w>pyzmail</w>
       <w>rmdir</w>
@@ -39,6 +41,9 @@
       <w>smtp</w>
       <w>subfolder</w>
       <w>subfolders</w>
+      <w>sumx</w>
+      <w>sumxy</w>
+      <w>sumy</w>
       <w>twilio</w>
       <w>unmerging</w>
       <w>webbrowser</w>
