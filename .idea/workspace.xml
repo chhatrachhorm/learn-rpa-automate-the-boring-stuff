@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3784153c-65b5-4df4-8cec-9ef22af01c4e" name="Default" comment="Automate the Boring Stuff">
+    <list default="true" id="3784153c-65b5-4df4-8cec-9ef22af01c4e" name="Default" comment="Collection Fil=">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/data/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/data/u.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/data/u.item" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/dataLoader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/critics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/ranking.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommending.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommendations.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/chhat.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/chhat.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommendations.py" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommendations.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/similarity.py" afterPath="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/similarity.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,10 +39,12 @@
     <SUITE FILE_PATH="coverage/ABS$CreatingPDF.coverage" NAME="CreatingPDF Coverage Results" MODIFIED="1511017613064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/PDF" />
     <SUITE FILE_PATH="coverage/ABS$changePixel.coverage" NAME="changePixel Coverage Results" MODIFIED="1511095461610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/ImageMani" />
     <SUITE FILE_PATH="coverage/ABS$writingExcel.coverage" NAME="writingExcel Coverage Results" MODIFIED="1511011938996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/Excel" />
+    <SUITE FILE_PATH="coverage/ABS$recommendations__1_.coverage" NAME="recommendations (1) Coverage Results" MODIFIED="1511342066551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence" />
     <SUITE FILE_PATH="coverage/ABS$fileManipulation.coverage" NAME="fileManipulation Coverage Results" MODIFIED="1510747143430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff" />
     <SUITE FILE_PATH="coverage/ABS$safeDelete.coverage" NAME="safeDelete Coverage Results" MODIFIED="1510755020272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/FileOperation/organize" />
     <SUITE FILE_PATH="coverage/ABS$ndarray.coverage" NAME="ndarray Coverage Results" MODIFIED="1511188920346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExtensiblePython/arrayAndMatrics" />
     <SUITE FILE_PATH="coverage/ABS$scheduler.coverage" NAME="scheduler Coverage Results" MODIFIED="1511074152429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/scheduling" />
+    <SUITE FILE_PATH="coverage/ABS$example__1_.coverage" NAME="example (1) Coverage Results" MODIFIED="1511366892696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData" />
     <SUITE FILE_PATH="coverage/ABS$reading.coverage" NAME="reading Coverage Results" MODIFIED="1511018274793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/Word" />
     <SUITE FILE_PATH="coverage/ABS$openingExe.coverage" NAME="openingExe Coverage Results" MODIFIED="1511073638938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/scheduling" />
     <SUITE FILE_PATH="coverage/ABS$imgColor.coverage" NAME="imgColor Coverage Results" MODIFIED="1511095026753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/ImageMani" />
@@ -42,12 +54,14 @@
     <SUITE FILE_PATH="coverage/ABS$readingExcel.coverage" NAME="readingExcel Coverage Results" MODIFIED="1511009091154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/Excel" />
     <SUITE FILE_PATH="coverage/ABS$sendingmail.coverage" NAME="sendingmail Coverage Results" MODIFIED="1511083500000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/Emailing/SMTPIMAP" />
     <SUITE FILE_PATH="coverage/ABS$readingmail.coverage" NAME="readingmail Coverage Results" MODIFIED="1511087634193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/Emailing" />
-    <SUITE FILE_PATH="coverage/ABS$similarity.coverage" NAME="similarity Coverage Results" MODIFIED="1511280428758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering" />
+    <SUITE FILE_PATH="coverage/ABS$similarity.coverage" NAME="similarity Coverage Results" MODIFIED="1511339387468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering" />
     <SUITE FILE_PATH="coverage/ABS$sendingDueMembership.coverage" NAME="sendingDueMembership Coverage Results" MODIFIED="1511089167146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/Emailing" />
     <SUITE FILE_PATH="coverage/ABS$comicXKCD.coverage" NAME="comicXKCD Coverage Results" MODIFIED="1510997954421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/WebScraping" />
     <SUITE FILE_PATH="coverage/ABS$copy.coverage" NAME="copy Coverage Results" MODIFIED="1510755016904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/FileOperation/organize" />
     <SUITE FILE_PATH="coverage/ABS$besafe.coverage" NAME="besafe Coverage Results" MODIFIED="1511102203313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/GUIAuto" />
     <SUITE FILE_PATH="coverage/ABS$readingCSV.coverage" NAME="readingCSV Coverage Results" MODIFIED="1511019694851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/CSVFiles" />
+    <SUITE FILE_PATH="coverage/ABS$example.coverage" NAME="example Coverage Results" MODIFIED="1511365409140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering" />
+    <SUITE FILE_PATH="coverage/ABS$recommending.coverage" NAME="recommending Coverage Results" MODIFIED="1511365301866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering" />
     <SUITE FILE_PATH="coverage/ABS$pySelenium.coverage" NAME="pySelenium Coverage Results" MODIFIED="1510998849188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/WebScraping" />
     <SUITE FILE_PATH="coverage/ABS$removingHeading.coverage" NAME="removingHeading Coverage Results" MODIFIED="1511061152983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/CSVFiles" />
     <SUITE FILE_PATH="coverage/ABS$charts.coverage" NAME="charts Coverage Results" MODIFIED="1511014034326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/Excel" />
@@ -69,6 +83,7 @@
     <SUITE FILE_PATH="coverage/ABS$duration.coverage" NAME="duration Coverage Results" MODIFIED="1511064390605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/scheduling" />
     <SUITE FILE_PATH="coverage/ABS$creating.coverage" NAME="creating Coverage Results" MODIFIED="1511019047847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/Word" />
     <SUITE FILE_PATH="coverage/ABS$imgageRecognition.coverage" NAME="imgageRecognition Coverage Results" MODIFIED="1511102986144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/GUIAuto" />
+    <SUITE FILE_PATH="coverage/ABS$similarity__1_.coverage" NAME="similarity (1) Coverage Results" MODIFIED="1511342071289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence" />
     <SUITE FILE_PATH="coverage/ABS$compressing__1_.coverage" NAME="compressing (1) Coverage Results" MODIFIED="1510990951934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/FileOperation/compression" />
     <SUITE FILE_PATH="coverage/ABS$saleToAddLogo.coverage" NAME="saleToAddLogo Coverage Results" MODIFIED="1511097867966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/ImageMani" />
     <SUITE FILE_PATH="coverage/ABS$datetimeMode.coverage" NAME="datetimeMode Coverage Results" MODIFIED="1511063441765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStuff/scheduling" />
@@ -77,36 +92,37 @@
     <favorites_list name="ABS" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="recommendations.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommendations.py">
+    <leaf>
+      <file leaf-file-name="dataLoader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/dataLoader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="36" column="93" lean-forward="false" selection-start-line="36" selection-start-column="93" selection-end-line="36" selection-end-column="93" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="similarity.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/similarity.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KNNChoice.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CognitiveDecision/SKL/mClassifiers/KNNChoice.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/data/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="119">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding>
-                <element signature="e#0#34#0" expanded="true" />
+                <element signature="e#0#101#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,13 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PythonStuff/WebScraping/crazy.py" />
-        <option value="$PROJECT_DIR$/PythonStuff/WebScraping/comicXKCD.py" />
-        <option value="$PROJECT_DIR$/PythonStuff/WebScraping/pySelenium.py" />
-        <option value="$PROJECT_DIR$/PythonStuff/Excel/readingExcel.py" />
-        <option value="$PROJECT_DIR$/PythonStuff/Excel/popCounty/censusPopData.py" />
-        <option value="$PROJECT_DIR$/PythonStuff/Excel/Sales/sales.py" />
-        <option value="$PROJECT_DIR$/PythonStuff/Excel/writingExcel.py" />
         <option value="$PROJECT_DIR$/PythonStuff/Excel/formula.py" />
         <option value="$PROJECT_DIR$/PythonStuff/Excel/customization.py" />
         <option value="$PROJECT_DIR$/PythonStuff/Excel/charts.py" />
@@ -169,8 +178,15 @@
         <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/README.md" />
         <option value="$PROJECT_DIR$/CognitiveDecision/SKL/mClassifiers/KNNChoice.py" />
         <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/README.md" />
-        <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/similarity.py" />
         <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommendations.py" />
+        <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/similarity.py" />
+        <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/ranking.py" />
+        <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/critics.py" />
+        <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommending.py" />
+        <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/example.py" />
+        <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/example.py" />
+        <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/dataLoader.py" />
+        <option value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/data/README.md" />
       </list>
     </option>
   </component>
@@ -244,13 +260,6 @@
               <item name="ABS" type="b2602c69:ProjectViewProjectNode" />
               <item name="ABS" type="462c0819:PsiDirectoryNode" />
               <item name="CognitiveDecision" type="462c0819:PsiDirectoryNode" />
-              <item name="CollectiveIntelligence" type="462c0819:PsiDirectoryNode" />
-              <item name="CollaborativeFiltering" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ABS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ABS" type="462c0819:PsiDirectoryNode" />
-              <item name="CognitiveDecision" type="462c0819:PsiDirectoryNode" />
               <item name="SKL" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -274,18 +283,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Shared\RPA\ABS\CognitiveDecision\CollectiveIntelligence\CollaborativeFiltering\RealtimeData\data" />
+      <recent name="D:\Shared\RPA\ABS\CognitiveDecision\CollectiveIntelligence" />
       <recent name="D:\Shared\RPA\ABS\ExtensiblePython" />
       <recent name="D:\Shared\RPA\ABS\PythonStuff\GUIAuto\files" />
       <recent name="D:\Shared\RPA\ABS\PythonStuff\Emailing" />
-      <recent name="D:\Shared\RPA\ABS\PythonStuff\Emailing\SMTPIMAP" />
-      <recent name="D:\Shared\RPA\ABS\PythonStuff\scheduling" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Shared\RPA\ABS\CognitiveDecision\CollectiveIntelligence\CollaborativeFiltering\RealtimeData" />
       <recent name="D:\Shared\RPA\ABS\CognitiveDecision" />
       <recent name="D:\Shared\RPA\ABS\PythonStuff\ImageMani\files\daisy" />
       <recent name="D:\Shared\RPA\ABS\PythonStuff\GUIAuto\files" />
       <recent name="D:\Shared\RPA\ABS\PythonStuff\ImageMani\fonts" />
-      <recent name="D:\Shared\RPA\ABS\PythonStuff\ImageMani\files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -300,62 +309,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.similarity">
-    <configuration name="Shape" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.example (1)">
+    <configuration name="example (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExtensiblePython/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ABS" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExtensiblePython/OOP/Shape.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="imgageRecognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonStuff/GUIAuto" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ABS" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonStuff/GUIAuto/imgageRecognition.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="ndarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExtensiblePython/arrayAndMatrics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ABS" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExtensiblePython/arrayAndMatrics/ndarray.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="recommendations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -368,12 +341,30 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ABS" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommendations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="similarity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="recommendations (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ABS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/recommendations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="recommending" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -386,25 +377,43 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ABS" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/similarity.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommending.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="similarity (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ABS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/similarity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.imgageRecognition" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Shape" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ndarray" />
-      <item index="3" class="java.lang.String" itemvalue="Python.similarity" />
-      <item index="4" class="java.lang.String" itemvalue="Python.recommendations" />
+      <item index="0" class="java.lang.String" itemvalue="Python.example" />
+      <item index="1" class="java.lang.String" itemvalue="Python.recommendations (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.similarity (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.recommending" />
+      <item index="4" class="java.lang.String" itemvalue="Python.example (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.similarity" />
-        <item index="1" class="java.lang.String" itemvalue="Python.recommendations" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ndarray" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Shape" />
-        <item index="4" class="java.lang.String" itemvalue="Python.imgageRecognition" />
+        <item index="0" class="java.lang.String" itemvalue="Python.example (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.example" />
+        <item index="2" class="java.lang.String" itemvalue="Python.recommending" />
+        <item index="3" class="java.lang.String" itemvalue="Python.similarity (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.recommendations (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -433,20 +442,27 @@
       <option name="project" value="LOCAL" />
       <updated>1511103094303</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Recommendations">
+      <created>1511280503096</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511280503096</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="652" y="0" width="719" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2670713" sideWeight="0.49425286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3110774" sideWeight="0.49425286" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36945814" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36124796" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36893204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2575251" sideWeight="0.50574714" order="2" side_tool="true" content_ui="tabs" />
@@ -457,7 +473,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -472,83 +488,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Automate the Boring Stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Automate the Boring Stuff" />
+    <MESSAGE value="Recommendations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recommendations" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonStuff/PDF/extractingPDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStuff/PDF/CreatingPDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStuff/Word/reading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStuff/CSVFiles/files/example.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStuff/CSVFiles/files/new.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStuff/Word/creating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStuff/CSVFiles/readingCSV.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStuff/CSVFiles/writingCSV.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStuff/FileOperation/compression/compressing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStuff/FileOperation/compression/openingClosing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonStuff/CSVFiles/removingHeading.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -785,53 +734,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CognitiveDecision/SKL/mClassifiers/KNNChoice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/README.md" />
     <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="51">
             <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommendations.py">
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/SKL/mClassifiers/KNNChoice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="36" column="93" lean-forward="false" selection-start-line="36" selection-start-column="93" selection-end-line="36" selection-end-column="93" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+        <state relative-caret-position="417">
+          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/recommendations.py" />
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/similarity.py" />
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/ranking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/similarity.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        <state relative-caret-position="646">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/recommending.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/data/u.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/data/u.item">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/critics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/dataLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CognitiveDecision/CollectiveIntelligence/CollaborativeFiltering/RealtimeData/data/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
